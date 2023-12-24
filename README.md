@@ -102,17 +102,24 @@ else:
 ```
 ## Sample Input and Output
 i)
+![lin in 1](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/cdcffd46-e6d3-4d28-adf0-a945e414898f)
 
 ii)
+![lin in 2](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/a6fc8f93-2c09-4be3-9171-e13e47ff8c6c)
 
 iii)
+![lin 3 in](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/1529cd00-0cd2-41ea-bc30-75f7fd565902)
 
 ## output
 i)
+![lin out 1](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/b48159bd-41e3-4e44-ae02-09ea292f1866)
 
 ii)
+![LIN 2 OUT](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/20c1e341-23e2-44e5-acde-48c49d341e22)
+
 
 iii)
+![lin 3 out](https://github.com/vinodhini-17/Search-Algorithm/assets/145742741/8171da73-ad8f-457e-8062-42a76e7ad15e)
 
 
 
